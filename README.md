@@ -8,6 +8,6 @@ it contains the following usefull things<br>
   -expense tracker.py this is as the name says an expense tracker it save you expenses local on you computer so you can acces it at anytime and without any data los. It show you each      expense with a description and the right date.<br>
 
 The rest is just a lot of junk to get to know python a litle better.<br><br>
-always feel free to edit my project and use them. that was where they where made for!
+always feel free to edit my project and use them. that was what they where made for!
 
   

@@ -99,8 +99,7 @@ def SHOW():
         key = f"expense{i}"
         if key in data:
             exp = data[key]
-            # Use .get() with fallback value so it never crashes
-            date_str = exp.get('date', '———')  # shows ——— when no date exists
+            date_str = exp.get('date', '———')  
             amount_str = f"{exp['currency']}{exp['Amount']:9.2f}"
             desc = exp['Description']
 

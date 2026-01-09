@@ -9,6 +9,15 @@ it contains the following usefull things<br>
 
 The rest is just a lot of junk to get to know python a litle better.<br><br>
 
+# the intentions of the projects.<br>
+
+-EngelsOefenScript.py this was code i wrote to help with studying for english. It is focusd on the correct spelling of the numbers.<br>
+<br>
+-RockPaperScissors.py this was a project i made to get to know python logic handeling a litle better.<br>
+<br>
+
+
+
 # thanks for viewing my project!
 
 always feel free to edit my project and use them. that was what they where made for!

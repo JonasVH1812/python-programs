@@ -9,7 +9,7 @@ it contains the following usefull things<br>
 
 The rest is just a lot of junk to get to know python a litle better.<br><br>
 
-#thanks for viewing my project!
+# thanks for viewing my project!
 
 always feel free to edit my project and use them. that was what they where made for!
 
